@@ -11,3 +11,6 @@ body{
 .button:hover{
     background-color:/*enter any color you want the button to change to on hover*/
 }
+ul{
+    list-style-type: none;
+}
